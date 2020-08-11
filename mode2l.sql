@@ -59,6 +59,7 @@ address varchar(20) not null,
 create table coupon( /*쿠폰 테이블*/
 c_no int(10) primary key  auto_increment unique,
 coupon int(10) not null unique
+  /*member 테이블 이랑 조인 예정(?) 입니다 */
 );
 
 create table review (/*후기 페이지*/
