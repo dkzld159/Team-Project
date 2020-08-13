@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	분기테스트 
+	분기 병합 
+	
 	
 </body>
 </html>
