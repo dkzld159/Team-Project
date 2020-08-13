@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
 outputCodeset=UTF-8
+validation.el-function-undefined=-1
+validation.el-general-syntax=-1
+validation.translation-tei-message=-1
