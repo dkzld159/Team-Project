@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style>
+	topDiv{
+		width:1000px;
+		height:30px;
+		background-color: black;
+		color:white;
+		margin:0 auto;
+	}
+</style>
+<div id="topDiv">
+	<h2>top.jsp</h2>
+</div>
