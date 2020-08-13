@@ -32,7 +32,7 @@
 	<div id="mainDiv">
 		<h1 style="text-align: center;">main.jsp</h1>
 		<div id="searchDiv">
-			<h2 style="text-align: center;">주소검색</h2>
+			<h2 style="text-align: center;">주소검색.2</h2>
 		</div>
 	</div>
 </body>
